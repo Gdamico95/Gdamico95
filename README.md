@@ -1,3 +1,4 @@
 🛠️ Tecnologias e Ferramentas
 https://img.shields.io/badge/any_text-you_like-blue
-https://camo.githubusercontent.com/f8a48be356d81364da1c8cff04b68f40533341beaecb60c3a38f74cedb52c7c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f73746d616e2d4646364333373f7374796c653d666c6174266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
