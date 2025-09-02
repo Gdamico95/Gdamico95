@@ -33,7 +33,7 @@ Sou Analista de Qualidade de Software com foco em estruturar processos, melhorar
 ## 🤝 Vamos conversar?
 
 Se gostou do jeito que trabalho e quer entrar em contato, ou simplesmente trocar ideias sobre qualidade, automação ou qualquer processos de QA:  
-(📩 Me chama no LinkedIn)[https://www.linkedin.com/in/gustavodamico]
+[📩 Me chama no LinkedIn](https://www.linkedin.com/in/gustavodamico)
 
 
 
