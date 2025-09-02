@@ -5,12 +5,12 @@ Sou Analista de Qualidade de Software com foco em estruturar processos, melhorar
 
 ## 📝 Sobre mim
 
-🎯 QA estratégico com atuação sólida em múltiplas frentes de qualidade
-🧩 Estruturação de processos de testes (regressão, funcionais, exploratórios e usabilidade) com foco em cobertura e rastreabilidade
-🐞 Detecção de bugs, validação de fluxos críticos e identificação de melhorias
-🔍 Experiência com a pirâmide de testes e visão de testes ponta a ponta (end-to-end, E2E)
-🧪 Conhecimento sólido em testes manuais e automatizados
-📈 Atuação robusta em observabilidade com análise de logs e prevenção de falhas
+🎯 QA estratégico com atuação sólida em múltiplas frentes de qualidade  
+🧩 Estruturação de processos de testes (regressão, funcionais, exploratórios e usabilidade) com foco em cobertura e rastreabilidade  
+🐞 Detecção de bugs, validação de fluxos críticos e identificação de melhorias  
+🔍 Experiência com a pirâmide de testes e visão de testes ponta a ponta (end-to-end, E2E)  
+🧪 Conhecimento sólido em testes manuais e automatizados  
+📈 Atuação robusta em observabilidade com análise de logs e prevenção de falhas  
 
 ---
 
@@ -32,8 +32,8 @@ Sou Analista de Qualidade de Software com foco em estruturar processos, melhorar
 
 ## 🤝 Vamos conversar?
 
-Se quiser trocar ideias sobre qualidade, automação leve, testes manuais ou processos de QA:
-📩 Me chama no LinkedIn
+Se gostou do jeito que trabalho e quer entrar em contato, ou simplesmente trocar ideias sobre qualidade, automação ou qualquer processos de QA:  
+(📩 Me chama no LinkedIn)[https://www.linkedin.com/in/gustavodamico]
 
 
 
